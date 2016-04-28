@@ -1,6 +1,5 @@
 'use strict';
 
-const Message = require('./lib/message.js');
 let util = require('util');
 let http = require('http');
 let Bot  = require('@kikinteractive/kik');
